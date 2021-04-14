@@ -20,8 +20,8 @@
 - 玩家3: 「3」
 - 機器人: 「Z多了B是?」
 - 玩家1: 「10」
-- 機器人: 「@玩家1 2 COMBO Time remaining: 100s」
+- 機器人: 「<kbd>@玩家1</kbd> 2 COMBO Time remaining: 100s」
 - 玩家2: 「2」
-- 機器人: 「@玩家2 Whoops! 2+8=10, GAME OVER! Credit -10 」
+- 機器人: 「<kbd>@玩家2</kbd> Whoops! 2+8=10, GAME OVER! Credit -10 」
 - 玩家4: 「10」
 - ...
